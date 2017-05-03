@@ -1,0 +1,4 @@
+#!/bin/sh
+
+$STI_SCRIPTS_PATH/assemble-php
+$STI_SCRIPTS_PATH/assemble-nodejs
